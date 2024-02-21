@@ -1,0 +1,4 @@
+/node_modules/
+.env
+earthpunk_key.pem
+server/index.js
